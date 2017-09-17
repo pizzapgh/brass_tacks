@@ -1,0 +1,47 @@
+---
+
+# TEAM
+
+---
+
+Designer & Developer: Chris Brennan <chrisbrennanpgh@gmail.com>
+Site: http://chrisbrennanpgh.com/
+Github: https://github.com/pizzapgh
+Twitter: https://twitter.com/DevelopingPizza
+Location: Pittsburgh, PA
+
+---
+
+#THANKS
+
+---
+
+Fonts - https://twitter.com/DevelopingPizza
+Icons - http://fontawesome.io/
+Forms - https://formspree.io/
+Atom - https://atom.io/
+JS - http://imakewebthings.com/waypoints/
+Product Photos - http://www.chemicalguys.com/
+Car Photos - https://unsplash.com/
+Codepen - http://codepen.io/
+
+---
+
+# TECHNOLOGY
+## Software
+
+---
+
+- Atom Text Editor
+- Git + Github
+- HTML5/CSS3
+- Jquery
+- Formspree
+
+---
+
+## Hosting
+
+---
+
+- Hostgator https://www.hostgator.com/

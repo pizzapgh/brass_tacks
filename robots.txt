@@ -1,0 +1,3 @@
+Sitemap: https://http://brasstackspgh.com/sitemap.xml
+
+User-agent: *
