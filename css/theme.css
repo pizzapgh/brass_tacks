@@ -61,7 +61,9 @@ p {
   font-weight:normal !important;
   margin-top: 0;
 }
-
+.hide-show-h2{
+  display: none;
+}
 h1 {
   color: #fff;
   margin:0;
@@ -74,8 +76,6 @@ ul {
 
 .desktop {
   display: none;
-}
-
 
 }
 
@@ -782,7 +782,7 @@ textarea {
   font-size: 1em;
   width: 100%;
   padding: 0.70em 1em;
-  border: 1px solid #000;
+      border: 2px solid #cbc9c9;
   color: black;
 }
 #main-contact #radios label,
